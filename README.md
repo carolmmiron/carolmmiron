@@ -21,7 +21,7 @@ I am a Data analyst with hands-on experience in using various tools to collect, 
 <h2 align="left">🙋‍♀️  Contact:</h2>
 
 * Connect on [LinkedIn](https://www.linkedin.com/in/carolina-martinm/)
-* Email me [📩](carol.mmiron@gmail.com)
+* Email me 📩 at carol.mmiron@gmail.com
 
 ###
 
