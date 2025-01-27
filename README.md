@@ -4,11 +4,11 @@
 
 I am a Data analyst with hands-on experience in using various tools to collect, organize, and analyze data, helping businesses make smarter decisions. I’m comfortable working with Python, SQL, Excel, and Tableau. I’ve got a good grasp of building dashboards, writing reports, data mining, combining datasets, and using statistics to uncover insights. 
 
-- 📈 **Data Analyts** with +5 years experience in Project Management. 
-- 🛒 Masters in **Digital Marketing and Ecommerce** by EAE Business School and Universitat de Barcelona. 
-- 🌱 I’m currently working on my **Data Analytics Certification** (Careerfoundry) and **AWS Certified Cloud Practitioner** (CloudGuru)
-- 📋 Explore my [portfolio](https://drive.google.com/file/d/1aB1ngOIvjIMGx04e2H4YxSDQVpWvL_5s/view?usp=sharing)
-- 💭 Currently into Machine Learning and Advance Data Visualization. 
+- 📈 **Data Analyst** with over 5 years of experience in Project Management. 
+- 🛒 Master's in **Digital Marketing and E-commerce** from EAE Business School and Universitat de Barcelona.
+- 🌱 Completed a bootcamp in **Data Analytics Certification** (Careerfoundry, January 2025) specializing in Advanced Data Visualization.
+- 📋 Explore my [portfolio]([https://carolinammiron.com/]
+- 💭 Currently enrolled in a **Python programming course** specializing in Machine Learning (Tokyo School). 
 
 
 
